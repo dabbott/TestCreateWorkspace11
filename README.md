@@ -1,3 +1,5 @@
+![](https://unsplash.it/1200/400)
+
 # Design System
 
 Our design system contains the following token definitions:
